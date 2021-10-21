@@ -2,10 +2,22 @@ html, body {
     height: 100%;
 }
 
+
 body {
     display: grid;
     place-items: center;
-    background: lightcyan;
+    
+}
+
+main {
+    background: url(img/fundo.png);
+    width: 375px;
+    height: 812px;
+}
+
+.container {
+    max-width: 250px;
+    margin: 0 auto;
 }
 
 h1{
