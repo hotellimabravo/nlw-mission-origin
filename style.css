@@ -5,7 +5,7 @@ html, body {
 body {
     display: grid;
     place-items: center;
-    background: lightgray;
+    background: lightcyan;
 }
 
 h1{
