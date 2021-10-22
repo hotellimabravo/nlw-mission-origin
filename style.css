@@ -57,6 +57,10 @@ a {
     color: var(--gray);
     text-decoration: none;
     margin-top: 0.25rem;
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    align-items: center;
 }
 
 p {
