@@ -16,9 +16,10 @@ body {
 }
 
 main {
-    background: url(img/fundo.png);
-    width: 375px;
-    height: 812px;
+    background: url(img/fundo.png) no-repeat center/cover;
+    width: 100vw;
+    min-height: 812px;
+    height: 100vh;
 }
 
 .container {
