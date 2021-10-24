@@ -2,7 +2,7 @@ const linksSocialMedia = {
     github: 'hotellimabravo',
     youtube: 'UCafkYu491JF-grSh1-0fUdA',
     facebook: 'hotellimabravo',
-    instagram: 'gabiambiental',
+    instagram: 'hbalttazar',
     twitter: 'hotellimabravo'
 }
 
