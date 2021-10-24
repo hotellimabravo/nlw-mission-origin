@@ -1,6 +1,6 @@
 const linksSocialMedia = {
     github: 'hotellimabravo',
-    linkedin: 'in/hugobalttazar',
+    linkedin: '/in/hugobalttazar',
     facebook: 'hotellimabravo',
     instagram: 'hbalttazar',
     twitter: 'hotellimabravo'
